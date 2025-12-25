@@ -5,7 +5,7 @@ from django.http import HttpResponse, JsonResponse
 
 
 def home_page(request):
-    print("Home page requested accessed from Ibrara KAnto ")
+    print("Home page requested")
     sangat=[
         'Hunain',
         'Khareen',
